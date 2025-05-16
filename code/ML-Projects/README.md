@@ -8,7 +8,7 @@ This repository contains end-to-end implementations of real-world ML problems us
 ## 📁 Projects Overview
 
 ### 1. 🔍 Job Description to ESCO Occupation Code Classification
-**Problem:** Classify job descriptions into standardized occupational codes using the [ESCO ontology](https://ec.europa.eu/esco/portal/home).  
+**Problem:** Classify job descriptions into standardized occupational codes using the [ESCO ontology](https://ec.europa.eu/esco/portal/home). 
 **Tech Stack:** Sentence-BERT, SVM
 **Highlights:** Semantic text embeddings, class balancing.  
 👉 [View Project](code/ML-Projects/01-ESCO-Job-Classifier)
