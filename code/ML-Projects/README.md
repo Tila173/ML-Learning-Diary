@@ -16,8 +16,10 @@ This repository contains end-to-end implementations of real-world ML problems us
 ---
 
 ### 2. 🛠️ [Project Name 2]
-_Description of the second project_  
-👉 [View Project](./Project-Name-2)
+**Problem:** Identify whether two questions from Quora are semantically duplicate or not.
+**Tech Stack:** Sentence-BERT (for embeddings), K-Nearest Neighbors (KNN), Scikit-learn
+**Highlights:** Semantic text similarity detection, pairwise classification, custom evaluation visualizations (precision, recall, F1, accuracy, confusion matrix).
+👉 [View Project](02-KNN-Duplicate-Detection)
 
 ---
 
